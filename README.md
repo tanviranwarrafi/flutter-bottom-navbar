@@ -1,16 +1,8 @@
-# bottom_navigation
+# Bottom NavigationBar Flutter
 
-Bottom Navigation in Flutter
+This project is for learning how to use a bottom navigation bar in Flutter.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### - Bottom NavBar
+ 
+## Screenshots
+<img src="screenshots/home.jpg" width="200"> &nbsp;<img src="screenshots/category.jpg" width="200">&nbsp;<img src="screenshots/settings.jpg" width="200"> &nbsp; <img src="screenshots/web.jpg" width="200">
